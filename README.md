@@ -10,3 +10,10 @@ schematic:
 
 
 
+preview:
+<img width="450" height="306" alt="Photo-View_2026-06-07" src="https://github.com/user-attachments/assets/6d338f23-766c-4bfc-8b7d-20f10740a06f" />
+
+
+<img width="977" height="496" alt="image" src="https://github.com/user-attachments/assets/6e6a4e91-3244-4c99-a53d-68b9e14bfb93" />
+
+
