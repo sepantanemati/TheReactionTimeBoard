@@ -24,4 +24,4 @@ PCB layout
 <img width="450" height="306" alt="PCB_PCB_testing_2026-06-08" src="https://github.com/user-attachments/assets/7033b59e-a99f-46b4-b020-9f024146fd32" />
 
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119.075mm" height="81.077mm" viewBox="4037.6 3036.5 468.8 319.2"><title
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119.075mm" height="81.077mm" viewBox="4037.6 3036.5 468.8 319.2">
